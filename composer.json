@@ -1,0 +1,10 @@
+{
+  "name": "getkirby-plugins/feed-plugin",
+  "description": "The Kirby RSS Feed Plugin.",
+  "keywords": ["kirby", "cms", "feed", "plugin"],
+  "homepage": "https://github.com/getkirby-plugins/feed-plugin",
+  "author": "Bastian Allgeier <bastian@getkirby.com>",
+  "version": "2.0.0",
+  "type": "kirby-plugin",
+  "license": "MIT"  
+}
